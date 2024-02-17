@@ -1,0 +1,2 @@
+Uses decorators to let the user build themselves a plate at a thanksgiving feast
+Can choose between a large or small plate and if the user puts on too much food either via weight or area the plate will break
